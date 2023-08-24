@@ -1,4 +1,4 @@
-*Introduction*
+**Introduction**
 Namespaces
 An important method for code organization are namespaces. Two functions might have a naming collision, which can be resolved by putting them in different namespaces. Namespaces can be nested, which might help to structure big code bases. Access to the namespaces is done via the scope-resolution operator ::.
 
@@ -21,7 +21,7 @@ namespace my_other_ns {
 }
 
 int myresult{my_ns::foo() + my_other_ns::foo() * my_ns::my_inner_ns::baz()};
-Instructions
+**Instructions**
 You work for a prestigious law firm that is specialized in handling unique testament requests.
 
 In this exercise, you are going to open a mysterious vault. You are the executor of the estate and will assemble the long-kept secret codes of three families to get an account number and the matching code.
