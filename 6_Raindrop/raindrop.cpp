@@ -13,7 +13,7 @@ namespace raindrops {
         if(!(no%3==0) && !(no%5==0) && !(no%7==0))
             return std::to_string(no);
         else
-            return result;
+            return result;    //return the result
         }
     }
 
