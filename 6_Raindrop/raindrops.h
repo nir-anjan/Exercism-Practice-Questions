@@ -5,6 +5,6 @@
 namespace raindrops {
 std::string convert(int no);
 
-}  // namespace raindrops
+}  // namespace raindrop
 
 #endif // RAINDROPS_H
