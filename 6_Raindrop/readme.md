@@ -11,7 +11,7 @@ Welcome to the Raindrops exercise! Your task is to convert a number into a strin
 The rules for raindrops are based on the factors of a number:
 
 - If the number has 3 as a factor, add 'Pling' to the result.
-- If the number has 5 as a factor, add 'Plang' to the result.
+- If the number has 5 as a factor, add 'Plang' to the results.
 - If the number has 7 as a factor, add 'Plong' to the result.
 - If the number does not have any of 3, 5, or 7 as factors, the result should be the digits of the number.
 
